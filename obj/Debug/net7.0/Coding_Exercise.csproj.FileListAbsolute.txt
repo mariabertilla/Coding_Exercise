@@ -1,0 +1,15 @@
+C:\Users\Maria\VS Code\Coding_Exercise\bin\Debug\net7.0\Coding_Exercise.exe
+C:\Users\Maria\VS Code\Coding_Exercise\bin\Debug\net7.0\Coding_Exercise.deps.json
+C:\Users\Maria\VS Code\Coding_Exercise\bin\Debug\net7.0\Coding_Exercise.runtimeconfig.json
+C:\Users\Maria\VS Code\Coding_Exercise\bin\Debug\net7.0\Coding_Exercise.dll
+C:\Users\Maria\VS Code\Coding_Exercise\bin\Debug\net7.0\Coding_Exercise.pdb
+C:\Users\Maria\VS Code\Coding_Exercise\obj\Debug\net7.0\Coding_Exercise.csproj.AssemblyReference.cache
+C:\Users\Maria\VS Code\Coding_Exercise\obj\Debug\net7.0\Coding_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\VS Code\Coding_Exercise\obj\Debug\net7.0\Coding_Exercise.AssemblyInfoInputs.cache
+C:\Users\Maria\VS Code\Coding_Exercise\obj\Debug\net7.0\Coding_Exercise.AssemblyInfo.cs
+C:\Users\Maria\VS Code\Coding_Exercise\obj\Debug\net7.0\Coding_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Maria\VS Code\Coding_Exercise\obj\Debug\net7.0\Coding_Exercise.dll
+C:\Users\Maria\VS Code\Coding_Exercise\obj\Debug\net7.0\refint\Coding_Exercise.dll
+C:\Users\Maria\VS Code\Coding_Exercise\obj\Debug\net7.0\Coding_Exercise.pdb
+C:\Users\Maria\VS Code\Coding_Exercise\obj\Debug\net7.0\Coding_Exercise.genruntimeconfig.cache
+C:\Users\Maria\VS Code\Coding_Exercise\obj\Debug\net7.0\ref\Coding_Exercise.dll
